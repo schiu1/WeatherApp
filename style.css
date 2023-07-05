@@ -1,0 +1,31 @@
+:root{
+    background-color: rgb(4, 4, 95);
+}
+
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: beige;
+    margin: 100px;
+}
+
+input{
+    outline: none;
+    border-width: 0 0 2px;
+    border-color: white;
+    color: beige;
+    background-color: rgb(4, 4, 95);
+    font-size: 25px;
+}
+
+button{
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    padding: 10px 16px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+button:hover{background-color: darkred;}
